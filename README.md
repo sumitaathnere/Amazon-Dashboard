@@ -1,1 +1,2 @@
-# Amazon-Dashboard
+📊 Amazon Sales Dashboard
+📌 Project Overview
