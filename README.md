@@ -90,7 +90,8 @@ Overall by Month – Visualizes product sales volume by month to identify trends
 
 Slicers – Enables selection of a specific product to view its detailed performance.
 
-![Power BI Desktop 16-06-2025 21_30_49](https://github.com/user-attachments/assets/c6f21fa0-0127-43cf-998b-13ec621363e4)
+![Power BI Desktop 17-06-2025 23_11_19](https://github.com/user-attachments/assets/603b2552-8a1c-485b-9708-82638a2389a6)
+
 
 
 ========================================================
