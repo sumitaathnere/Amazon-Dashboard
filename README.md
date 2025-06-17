@@ -1,4 +1,4 @@
-📊 Amazon Sales Dashboard
+📊 Amazon Product Sales Dashboard
 =================================================
 📌 Project Overview
 
