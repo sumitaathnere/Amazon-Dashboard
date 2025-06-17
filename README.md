@@ -33,7 +33,7 @@ Units Button – Displays product unit data.
 
 Sales by City (Detailed) – Additional view of product sales volume by city to track trends, peaks, and troughs over time.
 
-![Power BI Desktop 16-06-2025 21_29_32](https://github.com/user-attachments/assets/2564b643-1d19-4afc-a205-4c8bc6f2faa2)
+![Power BI Desktop 17-06-2025 22_46_21](https://github.com/user-attachments/assets/ff1e040d-28d0-4405-a4ce-19347443daaf)
 
 
 ==================================================
