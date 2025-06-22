@@ -113,3 +113,10 @@ Excel/CSV – as the primary data source
 6. total_amount
 7. filter_Sales
 
+======================================
+
+📬 Contact If you have any questions or suggestions, feel free to reach out! 😊
+
+Email:-sumitaathnere7@gmail.com
+
+⭐ Enjoy Exploring the Hospital Data with Power BI! 🚀
