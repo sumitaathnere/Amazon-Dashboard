@@ -1,10 +1,11 @@
 📊 Amazon Product Sales Dashboard
 =================================================
-📌 Project Overview
 
+📌 Project Overview
+=
 
 Sheet 1 Overview – Amazon Sales Dashboard
-
+=
 This is the first page of the Amazon Sales Dashboard report. It provides interactive visuals and filters for analyzing sales performance.
 
 Text Search Filter – Allows users to search for specific products.
@@ -39,6 +40,7 @@ Sales by City (Detailed) – Additional view of product sales volume by city to 
 ==================================================
 
 Sheet 2: Product
+=
 This sheet displays detailed information about each product.
 
 ✅ Custom Tooltip:
@@ -72,6 +74,7 @@ Custom tooltip page
 =================================================
 
 Sheet 3: Product View
+=
 This sheet displays detailed information about each product, helping analyze its performance over time.
 
 Name – Shows the product name.
@@ -97,7 +100,7 @@ Slicers – Enables selection of a specific product to view its detailed perform
 ========================================================
 
 🔧 Tools & Technologies
-
+=
 Power BI – for data visualization and dashboard creation
 
 Excel/CSV – as the primary data source
@@ -105,6 +108,7 @@ Excel/CSV – as the primary data source
 ==================================================================
 
 📊 Key DAX Measures
+=
 1. All_Overall_Sales
 2. Review
 3. sale_units
@@ -115,7 +119,9 @@ Excel/CSV – as the primary data source
 
 ======================================
 
-📬 Contact If you have any questions or suggestions, feel free to reach out! 😊
+📬 Contact
+=
+If you have any questions or suggestions, feel free to reach out! 😊
 
 Email:-sumitaathnere7@gmail.com
 
